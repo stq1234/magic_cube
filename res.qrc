@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>shader.frag</file>
+        <file>shader.vert</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>images/blue.png</file>
+        <file>images/green.png</file>
+        <file>images/orange.png</file>
+        <file>images/red.png</file>
+        <file>images/white.png</file>
+        <file>images/yellow.png</file>
+        <file>images/gray.png</file>
+        <file>images/R_79_pure.jpg</file>
+    </qresource>
+    <qresource prefix="/solver">
+        <file>solver.exe</file>
+        <file>text.txt</file>
+    </qresource>
+</RCC>
